@@ -1,0 +1,11 @@
+h1{
+    color: red;
+}
+
+@media screen and (min-width: 40rem){
+    h1 {color: #00ffff;}
+}
+
+@media screen and (min-width: 60rem){
+    h1 {color: #00ff00;}
+}
